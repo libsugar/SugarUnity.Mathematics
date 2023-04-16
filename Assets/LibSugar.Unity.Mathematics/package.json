@@ -4,6 +4,16 @@
   "version": "0.1.0",
   "unity": "2022.2",
   "description": "Like syntactic sugar, but is library",
+  "files": [
+    "./LibSugar.Unity.Mathematics/**/*.cs",
+    "./LibSugar.Unity.Mathematics/**/*.meta",
+    "./LibSugar.Unity.Mathematics.meta",
+    "./LibSugar.Unity.Mathematics.asmdef",
+    "./LibSugar.Unity.Mathematics.asmdef.meta",
+    "./LICENSE.md",
+    "./LICENSE.md.meta",
+    "./package.json.meta"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/libsugar/SugarUnity.Mathematics.git"
