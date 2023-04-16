@@ -1,5 +1,5 @@
 ﻿{
-  "name": "com.libsugar.mathematics",
+  "name": "com.libsugar.sugar.unity.mathematics",
   "displayName": "LibSugar.Mathematics",
   "version": "0.1.0",
   "unity": "2022.2",
@@ -8,6 +8,15 @@
     "type": "git",
     "url": "git+https://github.com/libsugar/SugarUnity.Mathematics.git"
   },
+  "keywords": [
+    "unity", "libsugar", "utility"
+  ],
+  "author": "libsugar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/libsugar/SugarUnity.Mathematics/issues"
+  },
+  "homepage": "https://github.com/libsugar/SugarUnity.Mathematics#readme",
   "dependencies": {
     "com.unity.mathematics": "^1.2.6"
   }
