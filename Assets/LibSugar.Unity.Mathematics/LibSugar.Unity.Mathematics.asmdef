@@ -1,0 +1,16 @@
+{
+    "name": "LibSugar.Unity.Mathematics",
+    "rootNamespace": "LibSugar.Unity.Mathematics",
+    "references": [
+        "Unity.Mathematics"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

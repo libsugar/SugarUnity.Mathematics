@@ -1,0 +1,14 @@
+﻿{
+  "name": "com.libsugar.mathematics",
+  "displayName": "LibSugar.Mathematics",
+  "version": "0.1.0",
+  "unity": "2022.2",
+  "description": "Like syntactic sugar, but is library",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/libsugar/SugarUnity.Mathematics.git"
+  },
+  "dependencies": {
+    "com.unity.mathematics": "^1.2.6"
+  }
+}
