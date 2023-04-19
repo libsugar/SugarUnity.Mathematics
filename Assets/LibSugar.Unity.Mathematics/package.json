@@ -1,7 +1,7 @@
 {
   "name": "com.libsugar.sugar.unity.mathematics",
   "displayName": "LibSugar.Mathematics",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "unity": "2022.2",
   "description": "Like syntactic sugar, but is library",
   "files": [
@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/libsugar/SugarUnity.Mathematics#readme",
   "dependencies": {
-    "com.unity.mathematics": "^1.2.6"
+    "com.unity.mathematics": "1.2.6"
   }
 }
